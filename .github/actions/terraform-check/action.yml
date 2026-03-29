@@ -1,0 +1,6 @@
+name: "Terraform Check Action"
+description: "Runs terraform fmt, init, and validate"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
