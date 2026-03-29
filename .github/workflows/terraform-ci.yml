@@ -2,8 +2,7 @@ name: Terraform CI
 
 on:
   push:
-    branches:ci yml
-    
+    branches:
       - main
   pull_request:
   workflow_dispatch:
