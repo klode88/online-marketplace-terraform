@@ -4,3 +4,4 @@
 
 ## Overview
 This project builds a production-style AWS infrastructure using Terraform...
+🚀 Production-style AWS infrastructure with Terraform + CI pipeline (GitHub Actions)
