@@ -4,7 +4,7 @@
 
 ## Overview
 This project builds a production-style AWS infrastructure using Terraform...
-🚀 Production-style AWS infrastructure with Terraform + CI pipeline (GitHub Actions)
+ Production-style AWS infrastructure with Terraform + CI pipeline (GitHub Actions)
 ## CI Pipeline
 
 - Runs Terraform validation and formatting checks
