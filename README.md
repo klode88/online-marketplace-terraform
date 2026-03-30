@@ -18,7 +18,7 @@ This section shows the main CLI steps I used so I can revisit the process and ot
 
 
 
-### 1. Create .gitignore
+1. Create .gitignore
 ```bash
 ni .gitignore
 notepad .gitignore
